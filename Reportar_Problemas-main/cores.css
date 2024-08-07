@@ -1,0 +1,122 @@
+/* background-color */
+.bgRosaAfya{
+    background-color: #d31c5b;
+}
+.bgRosaAfyaClaro{
+    background-color: #fe677e;
+}
+.bgAzulAfya{
+    background-color: #22b6d1;
+}
+.bgRoxoAfya{
+    background-color: #9587cb;
+}
+.bgBranco{
+    background-color: #ffffff;
+}
+.bgBrancoClaro1{
+    background-color: rgb(255,255,255, 0.5);
+}
+.bgPreto{
+    background-color: #000000;
+}
+.bgCinza1{
+    background-color: #232323;
+}
+.bgCinza2{
+    background-color: #8e9794;
+}
+.bgCinza3{
+    background-color: #a8a9a9;
+}
+.bgCinza4{
+    background-color: #c0c1c1;
+}
+.bgCinza5{
+    background-color: #d8d9d9;
+}
+.bgCinza6{
+    background-color: #f1f0f0;
+}
+
+/* color */
+.txtRosaAfya{
+    color: #d31c5b;
+}
+.txtRosaAfyaClaro{
+    color: #fe677e;
+}
+.txtAzulAfya{
+    color: #22b6d1;
+}
+.txtRoxoAfya{
+    color: #9587cb;
+}
+.txtBranco{
+    color: #ffffff;
+}
+.txtBrancoClaro1{
+    color: rgb(255,255,255, 0.5);
+}
+.txtPreto{
+    color: #000000;
+}
+.txtCinza1{
+    color: #232323;
+}
+.txtCinza2{
+    color: #8e9794;
+}
+.txtCinza3{
+    color: #a8a9a9;
+}
+.txtCinza4{
+    color: #c0c1c1;
+}
+.txtCinza5{
+    color: #d8d9d9;
+}
+.txtCinza6{
+    color: #f1f0f0;
+}
+
+/* border */
+.bdRosaAfya{
+    border: 1px solid #d31c5b;
+}
+.bdRosaAfyaClaro{
+    border: 1px solid #fe677e;
+}
+.bdAzulAfya{
+    border: 1px solid #22b6d1;
+}
+.bdRoxoAfya{
+    border: 1px solid #9587cb;
+}
+.bdBranco{
+    border: 1px solid #ffffff;
+}
+.bdBrancoClaro1{
+    border: 1px solid rgb(255,255,255, 0.5);
+}
+.bdPreto{
+    border: 1px solid #000000;
+}
+.bdCinza1{
+    border: 1px solid #232323;
+}
+.bdCinza2{
+    border: 1px solid #8e9794;
+}
+.bdCinza3{
+    border: 1px solid #a8a9a9;
+}
+.bdCinza4{
+    border: 1px solid #c0c1c1;
+}
+.bdCinza5{
+    border: 1px solid #d8d9d9;
+}
+.bdCinza6{
+    border: 1px solid #f1f0f0;
+}
